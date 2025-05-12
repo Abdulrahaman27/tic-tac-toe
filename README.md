@@ -64,16 +64,6 @@ Player 1's turn
   ```
 - **Invalid input**: Auto-rejects non-numeric entries
 
-## 🔧 Potential Enhancements
-1. **AI Opponent**:
-   - Implement minimax algorithm
-2. **Enhanced UI**:
-   - Add colors with `Console.Color`
-   - Use `Spectre.Console` for borders
-3. **Features**:
-   - Score tracking
-   - Player name input
-   - Resizable board
 
 ## 📊 Win Condition Logic
 ```csharp
